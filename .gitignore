@@ -1,3 +1,11 @@
+#project meta files
+archive/
+Spring/
+Gear/
+ClassificationDataSet/
+AnalysisOutput
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
